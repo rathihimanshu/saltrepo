@@ -1,0 +1,2 @@
+min: 
+  minsub: minion2
